@@ -4,15 +4,19 @@ The objective is to analyze the sales dataset from ten restaurants across 10 cit
 ## Analysis tools
 Excel and Power BI (Visualization)
 ## Analysis steps
-The dataset contains 1000 Taco delivery orders with the following column
-Order I. D which is a unique identifier for each order
-Restaurant name
-Location - City where order is placed
-Order time and delivery time
-Delivery duration
-Taco size
-Taco type
-Toppingds count
-Prices - cost of the taco
-Tips - Tip amount given by customer
-The dataset is in csv format. 
+The dataset is in csv format in a zip folder. The dataset was extracted and save in excel in xlsx format. It contains 1000 Taco delivery orders with the following column
+| Column                         | Description                                     |
+| ------------------------------ | ----------------------------------------------- |
+| **Order ID**                   | Unique identifier for each order                |
+| **Restaurant Name**            | Name of the taco restaurant                     |
+| **Location**                   | City where the order was placed                 |
+| **Order Time / Delivery Time** | Timestamp of order and delivery                 |
+| **Delivery Duration (min)**    | Time taken for delivery                         |
+| **Taco Size**                  | Regular or Large                                |
+| **Taco Type**                  | Type of taco (Chicken, Beef, Pork, etc.)        |
+| **Toppings Count**             | Number of toppings selected                     |
+| **Distance (km)**              | Delivery distance                               |
+| **Price (\$)**                 | Cost of the taco                                |
+| **Tip (\$)**                   | Tip amount given by customer                    |
+| **Weekend Order**              | Whether the order was on a weekend (True/False) |
+Having evaluate the dataset, the following analysis were carried out
