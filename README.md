@@ -21,9 +21,10 @@ The dataset is in csv format in a zip folder. The dataset was extracted and save
 | **Weekend Order**              | Whether the order was on a weekend (True/False) |
 
 Having evaluate the dataset, the following analysis were done
-Descriptive analysis
 
-Data visualization using Power BI
+1. Descriptive analysis
+
+2. Data visualization using Power BI
 
 ## Descriptive analysis
 The following key metrics were done by looking at the categorical and numerical columns
