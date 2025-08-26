@@ -19,4 +19,9 @@ The dataset is in csv format in a zip folder. The dataset was extracted and save
 | **Price (\$)**                 | Cost of the taco                                |
 | **Tip (\$)**                   | Tip amount given by customer                    |
 | **Weekend Order**              | Whether the order was on a weekend (True/False) |
-Having evaluate the dataset, the following analysis were carried out
+
+Having evaluate the dataset, the following analysis were done
+** Descriptive analysis**
+** data visualization using Power BI**
+## Descriptive analysis
+the following key metrics were done by looking at the categorical and numerical columns
