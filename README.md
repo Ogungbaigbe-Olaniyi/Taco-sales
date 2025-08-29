@@ -52,6 +52,8 @@ The following are the business questions under the sales and revenue category
 
 <img width="861" height="489" alt="Image" src="https://github.com/user-attachments/assets/f33c00e0-47bb-4c94-86c4-b2030755a3e9" />
 
+<img width="860" height="488" alt="Image" src="https://github.com/user-attachments/assets/f2123f40-321f-4f18-917a-83136f83c962" />
+
 ### Delivery performance business questions
 The busness questions under the delivery performance category are:
 1. Which locations or restaurants have the fastest and slowest delivery times?
