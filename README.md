@@ -47,8 +47,9 @@ The following are the business questions under the sales and revenue category
 3. Do Large tacos generate more revenue than Regular tacos?
 4. Which taco type brings in the most sales revenue?
 5. Are weekends better and busier than weekdays in terms of order count and sales revenue?
-#### Sales and revenue Dashboard
+#### Key metrics,Sales and revenue Dashboard
 
+<img width="861" height="489" alt="Image" src="https://github.com/user-attachments/assets/f33c00e0-47bb-4c94-86c4-b2030755a3e9" />
 
 ### Delivery performance business questions
 The busness questions under the delivery performance category are:
