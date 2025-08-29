@@ -60,7 +60,7 @@ The busness questions under the delivery performance category are:
 2. Are weekend deliveries slower or faster than weekday deliveries?
 #### Delivery performance dashboard
 
-
+<img width="859" height="486" alt="Image" src="https://github.com/user-attachments/assets/3d3064e1-b6d6-4408-be51-29806f9b74fd" />
 
 ### Customer behaviour and product insights questions
 Customers behaviour and products insights questions are:
