@@ -34,6 +34,7 @@ The following key metrics were done by looking at the categorical and numerical 
 3. Maximum and minimum price
 4. Total order
 5. Total revenue
+6. Average delivery distance
 
 ## Business questions
 The business questions were group into categories so that they can be easier to work on the categories are:
