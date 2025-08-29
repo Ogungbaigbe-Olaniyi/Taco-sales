@@ -23,7 +23,7 @@ The dataset is in csv format in a zip folder. The dataset was extracted and save
 | **Tip (\$)**                   | Tip amount given by customer                    |
 | **Weekend Order**              | Whether the order was on a weekend (True/False) |
 
-Having evaluate the dataset, the following analysis were done
+Having cleaned and evaluate the dataset, the following analysis were done
 
 1. Visualization of the key metrics (descriptive analysis) and business questions answered were done using Power BI by mapping them to the exact type of chart
 
@@ -41,6 +41,7 @@ The business questions were group into categories so that they can be easier to 
 1. Sales order and revenue
 2. Delivery performance
 3. Customer behaviour and product insights
+
 ### Sales and revenue Busness questions
 The following are the business questions under the sales and revenue category
 1. Which restaurants generate the most orders and highest revenue?
@@ -48,7 +49,7 @@ The following are the business questions under the sales and revenue category
 3. Do Large tacos generate more revenue than Regular tacos?
 4. Which taco type brings in the most sales revenue?
 5. Are weekends better and busier than weekdays in terms of order count and sales revenue?
-#### Key metrics,Sales and revenue Dashboard
+#### Key metrics, Sales and revenue Dashboard
 
 <img width="861" height="489" alt="Image" src="https://github.com/user-attachments/assets/f33c00e0-47bb-4c94-86c4-b2030755a3e9" />
 
@@ -69,4 +70,9 @@ Customers behaviour and products insights questions are:
 3. Which taco type is most popular in each location?
 4. Are there cities where Large tacos sell better than Regular ones?
 #### Customer behaviour and product insights dashboard
+
+<img width="869" height="489" alt="Image" src="https://github.com/user-attachments/assets/33783c84-854b-49b5-8bd5-06fee41a82d9" /> 
+
+## Key findings and Insights
+After analyzing the dataset, the following are the deductions or findings
 
