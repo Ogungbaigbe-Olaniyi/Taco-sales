@@ -37,7 +37,7 @@ The following key metrics were done by looking at the categorical and numerical 
 6. Average delivery distance
 
 ## Business questions
-The business questions were group into categories so that they can be easier to work on the categories are:
+The business questions were group into categories so that they can be easier to work on.The categories are:
 1. Sales order and revenue
 2. Delivery performance
 3. Customer behaviour and product insights
