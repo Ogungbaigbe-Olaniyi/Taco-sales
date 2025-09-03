@@ -74,5 +74,16 @@ Customers behaviour and products insights questions are:
 <img width="869" height="489" alt="Image" src="https://github.com/user-attachments/assets/33783c84-854b-49b5-8bd5-06fee41a82d9" /> 
 
 ## Key findings and Insights
-After analyzing the dataset, the following are the deductions or findings
+After analyzing the dataset, the following are the deductions or findings:
+1. The top 3 restaurants in terms of sales order generated are Urban tacos, Grande tacos and the taco stand
+2. Highest revenue generating restaurant is Urban taco
+3. Least revenue generating restaurant is El taco loco
+4. Chicken taco is the most popular while beef taco is the least popular as they both generate the highest and least revenue respectively
+5. Most order are placed during weekdays compared to weekends for all taco types
+6. Restaurants in Chicago generate the most sales order and revenue while Dallas has the least order and revenue
+7. in terms of delivery time, La Vida taco has the fastest delivery time overall while taco stand has the slowest . This is also applicable in the state of Dallas
+8. overall delivery is faster on weekend than on weekdays however, Casa Del taco deliver faster on weekday compare to Taco stand where delivery is faster on weekend
+9. Fish taco and chicken taco rank first and second respectively in termas of order as Fish taco is more popular in 5 states of Dallas, Nwe York, Sandiego, Los Angeles and San jose while chicken taco is popular in 4 states of Chicago, San Antonio, Houston, and Phoenix
+10. Restaurants got more customer tips for large taco than the regular taco
+11. Customers tend give more tips for chicken taco and pork taco 
 
